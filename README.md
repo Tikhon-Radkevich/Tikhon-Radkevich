@@ -10,7 +10,8 @@
     <img src="https://skillicons.dev/icons?i=python,r,cpp" />
   </a>
 </p>
-``` C++
+
+``` 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="90"/>
 ```
 <p>
