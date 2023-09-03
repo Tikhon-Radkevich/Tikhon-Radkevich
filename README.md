@@ -11,12 +11,13 @@
   </a>
 </p>
 
+<font color="#FF5733">This is some text with a custom color.
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="90"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" alt="TensorFlow" width="90"/>
-
 </p>
+</font>
 
 <p>
   <a href="https://skillicons.dev">
