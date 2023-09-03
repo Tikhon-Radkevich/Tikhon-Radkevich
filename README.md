@@ -12,14 +12,18 @@
 </p>
 
 <p>
+  ![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg)
+  ![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg)
+  ![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg)
+</p>
+
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,r,cpp" />
   </a>
 </p>
 
-![NumPy](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg)
-![Pandas](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg)
-![TensorFlow](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg)
+
 
 
 <!---
