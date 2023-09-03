@@ -6,8 +6,14 @@
 
 ## 💻 Tech stack:
 <p>
-  <a href="https://skillicons.dev">
+  <a rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
     <img src="https://skillicons.dev/icons?i=python,r,cpp" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <i class="devicon-pandas-original-wordmark"></i>
+    <img class="devicon-pandas-original-wordmark" />
   </a>
 </p>
 
