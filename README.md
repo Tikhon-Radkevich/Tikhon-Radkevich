@@ -10,8 +10,8 @@
     <img src="https://skillicons.dev/icons?i=python,r,cpp" />
   </a>
 </p>
-```
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="90"/>
+``` C++
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" alt="Pandas" width="90"/>
 ```
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" alt="NumPy" width="90"/>
