@@ -3,6 +3,7 @@
 ## 🔗 Media
 - [LeetCode](https://leetcode.com/TikhonRadk/)
 - [CodeWars](https://www.codewars.com/users/TikhonRadkevich)
+- [Kaggle](https://www.kaggle.com/tikhonradk)
 - [Medium](https://medium.com/@tikhon.radk)
 
 ## 💼 Core Specializations
