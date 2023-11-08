@@ -15,7 +15,7 @@
 ## 💻 Tech stack:
 <p>
   <a rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-    <img src="https://skillicons.dev/icons?i=python,r,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,cpp" />
   </a>
 </p>
 
