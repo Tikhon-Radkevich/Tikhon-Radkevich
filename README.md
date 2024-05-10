@@ -1,5 +1,7 @@
 ## 👋 Hi, I’m Tikhon Radkevich
 
+## 📝 My cv - [ML Engineer](https://github.com/Tikhon-Radkevich/Tikhon-Radkevich/blob/main/ML%20Engineer%20Tikhon%20Radkevich.pdf)
+
 ## 🔗 Media
 - [LeetCode](https://leetcode.com/TikhonRadk/)
 - [CodeWars](https://www.codewars.com/users/TikhonRadkevich)
