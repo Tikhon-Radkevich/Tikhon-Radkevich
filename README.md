@@ -1,3 +1,4 @@
+<!---
 ## 👋 Hi, I’m Tikhon Radkevich
 
 ## 🔗 Media
@@ -42,3 +43,5 @@
 
 ## 🚀 My Interests:
  - I'm currently immersed in the world of machine learning, actively studying and exploring cutting-edge algorithms. I also admire the idea of process automation and life improvement through AI. Another one of my interests lies in space exploration, including rockets and rocket engines. I closely follow SpaceX news and developments. In general, I stay updated on technological advancements and strive to keep pace with the ever-changing world of innovation.
+
+-->
